@@ -1,0 +1,217 @@
+"","Month","_id","#","corridor","Origin to Destination","Corridor Length (Km)","am_peak","pm_peak"
+"1","January",1,1,"Coronation Drive","High St to Boomerang St",2.64,346,277
+"2","January",2,2,"Fairfield Road-Annerley Road","Sherwood Rd to Stanley St",6.77,730,710
+"3","January",3,3,"Inner City Bypass Eastbound","Hale St/Milton Rd to KSD/Cooksley St",5.63,379,380
+"4","January",4,4,"Inner City Bypass Westbound","KSD/Cooksley St to Hale St/Milton Rd",5.63,403,386
+"5","January",5,5,"Ipswich Road-Bradfield Highway","Hamilton Rd to Ann/Gipps St",9.44,1247,1098
+"6","January",6,6,"Kelvin Grove Road","Samford Rd to MusgraveRd/Kelvin Grove Rd",4.24,556,465
+"7","January",7,7,"Kingsford Smith Drive-Breakfast Creek Road","Links Ave to Montpelier/Breakfast Creek Rd",5.52,746,560
+"8","January",8,8,"Logan Road","Klumpp Rd to Old Cleveland Rd",7.36,702,697
+"9","January",9,9,"Lutwyche Road-Bowen Br Road","Norman Ave to Gregory Tce",3.93,467,395
+"10","January",10,10,"Milton Road","Croydon St/Morley St to Petrie Tce",2.7,316,332
+"11","January",11,11,"Moggill Road","Russell Tce to Coronation Dr",3.31,379,437
+"12","January",12,12,"Old Cleveland Road","Creek Rd to Montague St",5.87,647,608
+"13","January",13,13,"Oxley Road-Coonan Street","Oxley Rd Ped Xing to Moggill Rd",8.39,1167,922
+"14","January",14,14,"Sandgate Road-Abbotsford Road","Bayview St to Campbell St/Abbotsford Rd",3.94,466,408
+"15","January",15,15,"Stanley Street (inbound)","Old Cleveland Rd/Cavendish Rd to Grey St/Vulture St",4.05,688,585
+"16","January",16,16,"Vulture Street (outbound)","Grey St/Vulture St to Old Cleveland Rd/Cavendish Rd",4.05,540,566
+"17","January",17,17,"Waterworks Road-Musgrave Road","Settlement Rd to Kelvin Grove Rd/Musgrave Rd",8.11,816,794
+"18","January",18,18,"Wynnum Road","Belmont Rd to Story Bridge Sth approach",10.5,1346,1183
+"19","February",1,1,"Coronation Drive","High St to Boomerang St",2.64,586,320
+"20","February",2,2,"Fairfield Road-Annerley Road","Sherwood Rd to Stanley St",6.77,1060,810
+"21","February",3,3,"Inner City Bypass Eastbound","Hale St/Milton Rd to KSD/Cooksley St",5.63,400,402
+"22","February",4,4,"Inner City Bypass Westbound","KSD/Cooksley St to Hale St/Milton Rd",5.63,505,390
+"23","February",5,5,"Ipswich Road-Bradfield Highway","Hamilton Rd to Ann/Gipps St",9.44,1700,1275
+"24","February",6,6,"Kelvin Grove Road","Samford Rd to MusgraveRd/Kelvin Grove Rd",4.24,826,524
+"25","February",7,7,"Kingsford Smith Drive-Breakfast Creek Road","Links Ave to Montpelier/Breakfast Creek Rd",5.52,862,591
+"26","February",8,8,"Logan Road","Klumpp Rd to Old Cleveland Rd",7.36,837,876
+"27","February",9,9,"Lutwyche Road-Bowen Br Road","Norman Ave to Gregory Tce",3.93,700,545
+"28","February",10,10,"Milton Road","Croydon St/Morley St to Petrie Tce",2.7,389,370
+"29","February",11,11,"Moggill Road","Russell Tce to Coronation Dr",3.31,452,604
+"30","February",12,12,"Old Cleveland Road","Creek Rd to Montague St",5.87,940,678
+"31","February",13,13,"Oxley Road-Coonan Street","Oxley Rd Ped Xing to Moggill Rd",8.39,1826,1114
+"32","February",14,14,"Sandgate Road-Abbotsford Road","Bayview St to Campbell St/Abbotsford Rd",3.94,590,404
+"33","February",15,15,"Stanley Street (inbound)","Old Cleveland Rd/Cavendish Rd to Grey St/Vulture St",4.05,1083,684
+"34","February",16,16,"Vulture Street (outbound)","Grey St/Vulture St to Old Cleveland Rd/Cavendish Rd",4.05,595,638
+"35","February",17,17,"Waterworks Road-Musgrave Road","Settlement Rd to Kelvin Grove Rd/Musgrave Rd",8.11,1085,850
+"36","February",18,18,"Wynnum Road","Belmont Rd to Story Bridge Sth approach",10.5,2086,1336
+"37","March",1,1,"Coronation Drive","High St to Boomerang St",2.64,532,317
+"38","March",2,2,"Fairfield Road-Annerley Road","Sherwood Rd to Stanley St",6.77,1003,690
+"39","March",3,3,"Inner City Bypass Eastbound","Hale St/Milton Rd to KSD/Cooksley St",5.63,386,395
+"40","March",4,4,"Inner City Bypass Westbound","KSD/Cooksley St to Hale St/Milton Rd",5.63,532,392
+"41","March",5,5,"Ipswich Road-Bradfield Highway","Hamilton Rd to Ann/Gipps St",9.44,1501,1218
+"42","March",6,6,"Kelvin Grove Road","Samford Rd to MusgraveRd/Kelvin Grove Rd",4.24,819,498
+"43","March",7,7,"Kingsford Smith Drive-Breakfast Creek Road","Links Ave to Montpelier/Breakfast Creek Rd",5.52,874,581
+"44","March",8,8,"Logan Road","Klumpp Rd to Old Cleveland Rd",7.36,909,812
+"45","March",9,9,"Lutwyche Road-Bowen Br Road","Norman Ave to Gregory Tce",3.93,703,533
+"46","March",10,10,"Milton Road","Croydon St/Morley St to Petrie Tce",2.7,401,354
+"47","March",11,11,"Moggill Road","Russell Tce to Coronation Dr",3.31,456,520
+"48","March",12,12,"Old Cleveland Road","Creek Rd to Montague St",5.87,992,666
+"49","March",13,13,"Oxley Road-Coonan Street","Oxley Rd Ped Xing to Moggill Rd",8.39,1638,1055
+"50","March",14,14,"Sandgate Road-Abbotsford Road","Bayview St to Campbell St/Abbotsford Rd",3.94,615,400
+"51","March",15,15,"Stanley Street (inbound)","Old Cleveland Rd/Cavendish Rd to Grey St/Vulture St",4.05,998,663
+"52","March",16,16,"Vulture Street (outbound)","Grey St/Vulture St to Old Cleveland Rd/Cavendish Rd",4.05,608,619
+"53","March",17,17,"Waterworks Road-Musgrave Road","Settlement Rd to Kelvin Grove Rd/Musgrave Rd",8.11,1196,848
+"54","March",18,18,"Wynnum Road","Belmont Rd to Story Bridge Sth approach",10.5,1798,1325
+"55","April",1,1,"Coronation Drive","High St to Boomerang St",2.64,434,299
+"56","April",2,2,"Fairfield Road-Annerley Road","Sherwood Rd to Stanley St",6.77,799,704
+"57","April",3,3,"Inner City Bypass Eastbound","Hale St/Milton Rd to KSD/Cooksley St",5.63,377,396
+"58","April",4,4,"Inner City Bypass Westbound","KSD/Cooksley St to Hale St/Milton Rd",5.63,418,392
+"59","April",5,5,"Ipswich Road-Bradfield Highway","Hamilton Rd to Ann/Gipps St",9.44,1219,1200
+"60","April",6,6,"Kelvin Grove Road","Samford Rd to MusgraveRd/Kelvin Grove Rd",4.24,691,459
+"61","April",7,7,"Kingsford Smith Drive-Breakfast Creek Road","Links Ave to Montpelier/Breakfast Creek Rd",5.52,767,579
+"62","April",8,8,"Logan Road","Klumpp Rd to Old Cleveland Rd",7.36,845,853
+"63","April",9,9,"Lutwyche Road-Bowen Br Road","Norman Ave to Gregory Tce",3.93,531,459
+"64","April",10,10,"Milton Road","Croydon St/Morley St to Petrie Tce",2.7,360,338
+"65","April",11,11,"Moggill Road","Russell Tce to Coronation Dr",3.31,416,428
+"66","April",12,12,"Old Cleveland Road","Creek Rd to Montague St",5.87,728,647
+"67","April",13,13,"Oxley Road-Coonan Street","Oxley Rd Ped Xing to Moggill Rd",8.39,1116,991
+"68","April",14,14,"Sandgate Road-Abbotsford Road","Bayview St to Campbell St/Abbotsford Rd",3.94,476,388
+"69","April",15,15,"Stanley Street (inbound)","Old Cleveland Rd/Cavendish Rd to Grey St/Vulture St",4.05,754,631
+"70","April",16,16,"Vulture Street (outbound)","Grey St/Vulture St to Old Cleveland Rd/Cavendish Rd",4.05,550,575
+"71","April",17,17,"Waterworks Road-Musgrave Road","Settlement Rd to Kelvin Grove Rd/Musgrave Rd",8.11,927,800
+"72","April",18,18,"Wynnum Road","Belmont Rd to Story Bridge Sth approach",10.5,1382,1253
+"73","May",1,1,"Coronation Drive","High St to Boomerang St",2.64,514,312
+"74","May",2,2,"Fairfield Road-Annerley Road","Sherwood Rd to Stanley St",6.77,985,750
+"75","May",3,3,"Inner City Bypass Eastbound","Hale St/Milton Rd to KSD/Cooksley St",5.63,379,404
+"76","May",4,4,"Inner City Bypass Westbound","KSD/Cooksley St to Hale St/Milton Rd",5.63,513,395
+"77","May",5,5,"Ipswich Road-Bradfield Highway","Hamilton Rd to Ann/Gipps St",9.44,1447,1381
+"78","May",6,6,"Kelvin Grove Road","Samford Rd to MusgraveRd/Kelvin Grove Rd",4.24,937,483
+"79","May",7,7,"Kingsford Smith Drive-Breakfast Creek Road","Links Ave to Montpelier/Breakfast Creek Rd",5.52,799,591
+"80","May",8,8,"Logan Road","Klumpp Rd to Old Cleveland Rd",7.36,844,854
+"81","May",9,9,"Lutwyche Road-Bowen Br Road","Norman Ave to Gregory Tce",3.93,689,523
+"82","May",10,10,"Milton Road","Croydon St/Morley St to Petrie Tce",2.7,381,350
+"83","May",11,11,"Moggill Road","Russell Tce to Coronation Dr",3.31,462,594
+"84","May",12,12,"Old Cleveland Road","Creek Rd to Montague St",5.87,770,659
+"85","May",13,13,"Oxley Road-Coonan Street","Oxley Rd Ped Xing to Moggill Rd",8.39,1734,1151
+"86","May",14,14,"Sandgate Road-Abbotsford Road","Bayview St to Campbell St/Abbotsford Rd",3.94,522,432
+"87","May",15,15,"Stanley Street (inbound)","Old Cleveland Rd/Cavendish Rd to Grey St/Vulture St",4.05,1033,699
+"88","May",16,16,"Vulture Street (outbound)","Grey St/Vulture St to Old Cleveland Rd/Cavendish Rd",4.05,591,658
+"89","May",17,17,"Waterworks Road-Musgrave Road","Settlement Rd to Kelvin Grove Rd/Musgrave Rd",8.11,1109,866
+"90","May",18,18,"Wynnum Road","Belmont Rd to Story Bridge Sth approach",10.5,1656,1375
+"91","June",1,1,"Coronation Drive","High St to Boomerang St",2.64,494,295
+"92","June",2,2,"Fairfield Road-Annerley Road","Sherwood Rd to Stanley St",6.77,806,684
+"93","June",3,3,"Inner City Bypass Eastbound","Hale St/Milton Rd to KSD/Cooksley St",5.63,388,396
+"94","June",4,4,"Inner City Bypass Westbound","KSD/Cooksley St to Hale St/Milton Rd",5.63,427,386
+"95","June",5,5,"Ipswich Road-Bradfield Highway","Hamilton Rd to Ann/Gipps St",9.44,1292,1248
+"96","June",6,6,"Kelvin Grove Road","Samford Rd to MusgraveRd/Kelvin Grove Rd",4.24,646,467
+"97","June",7,7,"Kingsford Smith Drive-Breakfast Creek Road","Links Ave to Montpelier/Breakfast Creek Rd",5.52,774,585
+"98","June",8,8,"Logan Road","Klumpp Rd to Old Cleveland Rd",7.36,850,809
+"99","June",9,9,"Lutwyche Road-Bowen Br Road","Norman Ave to Gregory Tce",3.93,649,470
+"100","June",10,10,"Milton Road","Croydon St/Morley St to Petrie Tce",2.7,366,319
+"101","June",11,11,"Moggill Road","Russell Tce to Coronation Dr",3.31,426,464
+"102","June",12,12,"Old Cleveland Road","Creek Rd to Montague St",5.87,697,635
+"103","June",13,13,"Oxley Road-Coonan Street","Oxley Rd Ped Xing to Moggill Rd",8.39,1268,951
+"104","June",14,14,"Sandgate Road-Abbotsford Road","Bayview St to Campbell St/Abbotsford Rd",3.94,503,401
+"105","June",15,15,"Stanley Street (inbound)","Old Cleveland Rd/Cavendish Rd to Grey St/Vulture St",4.05,763,642
+"106","June",16,16,"Vulture Street (outbound)","Grey St/Vulture St to Old Cleveland Rd/Cavendish Rd",4.05,602,604
+"107","June",17,17,"Waterworks Road-Musgrave Road","Settlement Rd to Kelvin Grove Rd/Musgrave Rd",8.11,997,816
+"108","June",18,18,"Wynnum Road","Belmont Rd to Story Bridge Sth approach",10.5,1500,1298
+"109","July",1,1,"Coronation Drive","High St to Boomerang St",2.64,468,313
+"110","July",2,2,"Fairfield Road-Annerley Road","Sherwood Rd to Stanley St",6.77,780,702
+"111","July",3,3,"Inner City Bypass Eastbound","Hale St/Milton Rd to KSD/Cooksley St",5.63,401,404
+"112","July",4,4,"Inner City Bypass Westbound","KSD/Cooksley St to Hale St/Milton Rd",5.63,420,393
+"113","July",5,5,"Ipswich Road-Bradfield Highway","Hamilton Rd to Ann/Gipps St",9.44,1266,1321
+"114","July",6,6,"Kelvin Grove Road","Samford Rd to MusgraveRd/Kelvin Grove Rd",4.24,651,474
+"115","July",7,7,"Kingsford Smith Drive-Breakfast Creek Road","Links Ave to Montpelier/Breakfast Creek Rd",5.52,762,594
+"116","July",8,8,"Logan Road","Klumpp Rd to Old Cleveland Rd",7.36,819,777
+"117","July",9,9,"Lutwyche Road-Bowen Br Road","Norman Ave to Gregory Tce",3.93,531,456
+"118","July",10,10,"Milton Road","Croydon St/Morley St to Petrie Tce",2.7,370,335
+"119","July",11,11,"Moggill Road","Russell Tce to Coronation Dr",3.31,430,548
+"120","July",12,12,"Old Cleveland Road","Creek Rd to Montague St",5.87,681,625
+"121","July",13,13,"Oxley Road-Coonan Street","Oxley Rd Ped Xing to Moggill Rd",8.39,1104,1000
+"122","July",14,14,"Sandgate Road-Abbotsford Road","Bayview St to Campbell St/Abbotsford Rd",3.94,492,393
+"123","July",15,15,"Stanley Street (inbound)","Old Cleveland Rd/Cavendish Rd to Grey St/Vulture St",4.05,777,679
+"124","July",16,16,"Vulture Street (outbound)","Grey St/Vulture St to Old Cleveland Rd/Cavendish Rd",4.05,592,604
+"125","July",17,17,"Waterworks Road-Musgrave Road","Settlement Rd to Kelvin Grove Rd/Musgrave Rd",8.11,919,792
+"126","July",18,18,"Wynnum Road","Belmont Rd to Story Bridge Sth approach",10.5,1498,1288
+"127","August",1,1,"Coronation Drive","High St to Boomerang St",2.64,487,317
+"128","August",2,2,"Fairfield Road-Annerley Road","Sherwood Rd to Stanley St",6.77,923,690
+"129","August",3,3,"Inner City Bypass Eastbound","Hale St/Milton Rd to KSD/Cooksley St",5.63,385,403
+"130","August",4,4,"Inner City Bypass Westbound","KSD/Cooksley St to Hale St/Milton Rd",5.63,522,377
+"131","August",5,5,"Ipswich Road-Bradfield Highway","Hamilton Rd to Ann/Gipps St",9.44,1496,1189
+"132","August",6,6,"Kelvin Grove Road","Samford Rd to MusgraveRd/Kelvin Grove Rd",4.24,777,485
+"133","August",7,7,"Kingsford Smith Drive-Breakfast Creek Road","Links Ave to Montpelier/Breakfast Creek Rd",5.52,797,581
+"134","August",8,8,"Logan Road","Klumpp Rd to Old Cleveland Rd",7.36,832,879
+"135","August",9,9,"Lutwyche Road-Bowen Br Road","Norman Ave to Gregory Tce",3.93,719,485
+"136","August",10,10,"Milton Road","Croydon St/Morley St to Petrie Tce",2.7,375,324
+"137","August",11,11,"Moggill Road","Russell Tce to Coronation Dr",3.31,444,513
+"138","August",12,12,"Old Cleveland Road","Creek Rd to Montague St",5.87,805,666
+"139","August",13,13,"Oxley Road-Coonan Street","Oxley Rd Ped Xing to Moggill Rd",8.39,1503,946
+"140","August",14,14,"Sandgate Road-Abbotsford Road","Bayview St to Campbell St/Abbotsford Rd",3.94,537,392
+"141","August",15,15,"Stanley Street (inbound)","Old Cleveland Rd/Cavendish Rd to Grey St/Vulture St",4.05,666,667
+"142","August",16,16,"Vulture Street (outbound)","Grey St/Vulture St to Old Cleveland Rd/Cavendish Rd",4.05,629,604
+"143","August",17,17,"Waterworks Road-Musgrave Road","Settlement Rd to Kelvin Grove Rd/Musgrave Rd",8.11,1034,838
+"144","August",18,18,"Wynnum Road","Belmont Rd to Story Bridge Sth approach",10.5,1746,1323
+"145","September",1,1,"Coronation Drive","High St to Boomerang St",2.64,398,299
+"146","September",2,2,"Fairfield Road-Annerley Road","Sherwood Rd to Stanley St",6.77,901,673
+"147","September",3,3,"Inner City Bypass Eastbound","Hale St/Milton Rd to KSD/Cooksley St",5.63,372,383
+"148","September",4,4,"Inner City Bypass Westbound","KSD/Cooksley St to Hale St/Milton Rd",5.63,472,369
+"149","September",5,5,"Ipswich Road-Bradfield Highway","Hamilton Rd to Ann/Gipps St",9.44,1418,1107
+"150","September",6,6,"Kelvin Grove Road","Samford Rd to MusgraveRd/Kelvin Grove Rd",4.24,749,453
+"151","September",7,7,"Kingsford Smith Drive-Breakfast Creek Road","Links Ave to Montpelier/Breakfast Creek Rd",5.52,800,574
+"152","September",8,8,"Logan Road","Klumpp Rd to Old Cleveland Rd",7.36,858,846
+"153","September",9,9,"Lutwyche Road-Bowen Br Road","Norman Ave to Gregory Tce",3.93,554,432
+"154","September",10,10,"Milton Road","Croydon St/Morley St to Petrie Tce",2.7,352,320
+"155","September",11,11,"Moggill Road","Russell Tce to Coronation Dr",3.31,415,420
+"156","September",12,12,"Old Cleveland Road","Creek Rd to Montague St",5.87,727,627
+"157","September",13,13,"Oxley Road-Coonan Street","Oxley Rd Ped Xing to Moggill Rd",8.39,1267,911
+"158","September",14,14,"Sandgate Road-Abbotsford Road","Bayview St to Campbell St/Abbotsford Rd",3.94,451,382
+"159","September",15,15,"Stanley Street (inbound)","Old Cleveland Rd/Cavendish Rd to Grey St/Vulture St",4.05,845,644
+"160","September",16,16,"Vulture Street (outbound)","Grey St/Vulture St to Old Cleveland Rd/Cavendish Rd",4.05,599,557
+"161","September",17,17,"Waterworks Road-Musgrave Road","Settlement Rd to Kelvin Grove Rd/Musgrave Rd",8.11,970,788
+"162","September",18,18,"Wynnum Road","Belmont Rd to Story Bridge Sth approach",10.5,1553,1193
+"163","October",1,1,"Coronation Drive","High St to Boomerang St",2.64,460,305
+"164","October",2,2,"Fairfield Road-Annerley Road","Sherwood Rd to Stanley St",6.77,952,692
+"165","October",3,3,"Inner City Bypass Eastbound","Hale St/Milton Rd to KSD/Cooksley St",5.63,374,382
+"166","October",4,4,"Inner City Bypass Westbound","KSD/Cooksley St to Hale St/Milton Rd",5.63,535,370
+"167","October",5,5,"Ipswich Road-Bradfield Highway","Hamilton Rd to Ann/Gipps St",9.44,1416,1140
+"168","October",6,6,"Kelvin Grove Road","Samford Rd to MusgraveRd/Kelvin Grove Rd",4.24,751,497
+"169","October",7,7,"Kingsford Smith Drive-Breakfast Creek Road","Links Ave to Montpelier/Breakfast Creek Rd",5.52,821,573
+"170","October",8,8,"Logan Road","Klumpp Rd to Old Cleveland Rd",7.36,869,761
+"171","October",9,9,"Lutwyche Road-Bowen Br Road","Norman Ave to Gregory Tce",3.93,615,463
+"172","October",10,10,"Milton Road","Croydon St/Morley St to Petrie Tce",2.7,382,316
+"173","October",11,11,"Moggill Road","Russell Tce to Coronation Dr",3.31,445,522
+"174","October",12,12,"Old Cleveland Road","Creek Rd to Montague St",5.87,788,640
+"175","October",13,13,"Oxley Road-Coonan Street","Oxley Rd Ped Xing to Moggill Rd",8.39,1455,1047
+"176","October",14,14,"Sandgate Road-Abbotsford Road","Bayview St to Campbell St/Abbotsford Rd",3.94,500,391
+"177","October",15,15,"Stanley Street (inbound)","Old Cleveland Rd/Cavendish Rd to Grey St/Vulture St",4.05,876,677
+"178","October",16,16,"Vulture Street (outbound)","Grey St/Vulture St to Old Cleveland Rd/Cavendish Rd",4.05,605,589
+"179","October",17,17,"Waterworks Road-Musgrave Road","Settlement Rd to Kelvin Grove Rd/Musgrave Rd",8.11,1051,796
+"180","October",18,18,"Wynnum Road","Belmont Rd to Story Bridge Sth approach",10.5,1746,1238
+"181","November",1,1,"Coronation Drive","High St to Boomerang St",2.64,520,300
+"182","November",2,2,"Fairfield Road-Annerley Road","Sherwood Rd to Stanley St",6.77,942,692
+"183","November",3,3,"Inner City Bypass Eastbound","Hale St/Milton Rd to KSD/Cooksley St",5.63,380,381
+"184","November",4,4,"Inner City Bypass Westbound","KSD/Cooksley St to Hale St/Milton Rd",5.63,503,368
+"185","November",5,5,"Ipswich Road-Bradfield Highway","Hamilton Rd to Ann/Gipps St",9.44,1516,1192
+"186","November",6,6,"Kelvin Grove Road","Samford Rd to MusgraveRd/Kelvin Grove Rd",4.24,762,484
+"187","November",7,7,"Kingsford Smith Drive-Breakfast Creek Road","Links Ave to Montpelier/Breakfast Creek Rd",5.52,855,605
+"188","November",8,8,"Logan Road","Klumpp Rd to Old Cleveland Rd",7.36,827,797
+"189","November",9,9,"Lutwyche Road-Bowen Br Road","Norman Ave to Gregory Tce",3.93,616,460
+"190","November",10,10,"Milton Road","Croydon St/Morley St to Petrie Tce",2.7,391,330
+"191","November",11,11,"Moggill Road","Russell Tce to Coronation Dr",3.31,457,531
+"192","November",12,12,"Old Cleveland Road","Creek Rd to Montague St",5.87,803,665
+"193","November",13,13,"Oxley Road-Coonan Street","Oxley Rd Ped Xing to Moggill Rd",8.39,1207,1007
+"194","November",14,14,"Sandgate Road-Abbotsford Road","Bayview St to Campbell St/Abbotsford Rd",3.94,501,391
+"195","November",15,15,"Stanley Street (inbound)","Old Cleveland Rd/Cavendish Rd to Grey St/Vulture St",4.05,946,705
+"196","November",16,16,"Vulture Street (outbound)","Grey St/Vulture St to Old Cleveland Rd/Cavendish Rd",4.05,610,581
+"197","November",17,17,"Waterworks Road-Musgrave Road","Settlement Rd to Kelvin Grove Rd/Musgrave Rd",8.11,1035,811
+"198","November",18,18,"Wynnum Road","Belmont Rd to Story Bridge Sth approach",10.5,1777,1225
+"199","December",1,1,"Coronation Drive","High St to Boomerang St",2.64,332,281
+"200","December",2,2,"Fairfield Road-Annerley Road","Sherwood Rd to Stanley St",6.77,716,714
+"201","December",3,3,"Inner City Bypass Eastbound","Hale St/Milton Rd to KSD/Cooksley St",5.63,366,363
+"202","December",4,4,"Inner City Bypass Westbound","KSD/Cooksley St to Hale St/Milton Rd",5.63,398,358
+"203","December",5,5,"Ipswich Road-Bradfield Highway","Hamilton Rd to Ann/Gipps St",9.44,1136,1185
+"204","December",6,6,"Kelvin Grove Road","Samford Rd to MusgraveRd/Kelvin Grove Rd",4.24,493,446
+"205","December",7,7,"Kingsford Smith Drive-Breakfast Creek Road","Links Ave to Montpelier/Breakfast Creek Rd",5.52,708,583
+"206","December",8,8,"Logan Road","Klumpp Rd to Old Cleveland Rd",7.36,730,748
+"207","December",9,9,"Lutwyche Road-Bowen Br Road","Norman Ave to Gregory Tce",3.93,472,402
+"208","December",10,10,"Milton Road","Croydon St/Morley St to Petrie Tce",2.7,324,296
+"209","December",11,11,"Moggill Road","Russell Tce to Coronation Dr",3.31,388,517
+"210","December",12,12,"Old Cleveland Road","Creek Rd to Montague St",5.87,643,638
+"211","December",13,13,"Oxley Road-Coonan Street","Oxley Rd Ped Xing to Moggill Rd",8.39,949,941
+"212","December",14,14,"Sandgate Road-Abbotsford Road","Bayview St to Campbell St/Abbotsford Rd",3.94,417,375
+"213","December",15,15,"Stanley Street (inbound)","Old Cleveland Rd/Cavendish Rd to Grey St/Vulture St",4.05,657,626
+"214","December",16,16,"Vulture Street (outbound)","Grey St/Vulture St to Old Cleveland Rd/Cavendish Rd",4.05,546,549
+"215","December",17,17,"Waterworks Road-Musgrave Road","Settlement Rd to Kelvin Grove Rd/Musgrave Rd",8.11,788,749
+"216","December",18,18,"Wynnum Road","Belmont Rd to Story Bridge Sth approach",10.5,1316,1143

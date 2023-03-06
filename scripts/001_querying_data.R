@@ -1,8 +1,13 @@
 library(httr)
 library(jsonlite)
 library(tibble)
+library(tidyverse)
+library(ggtext) #add and modify text to ggpplot
+library(showtext) #fonts
+font_add_google("Lato")
+showtext_auto()
 
-# List of URLs
+#URLs
 urls <- c(
   "https://www.data.brisbane.qld.gov.au/data/api/3/action/datastore_search?resource_id=8bbb460e-702a-443e-8b1f-52c52f31c4b1",
   "https://www.data.brisbane.qld.gov.au/data/api/3/action/datastore_search?resource_id=572bcc68-ad89-4cb8-99bf-0c267be6ff53",
@@ -18,30 +23,48 @@ urls <- c(
   "https://www.data.brisbane.qld.gov.au/data/api/3/action/datastore_search?resource_id=71d3f444-ed0b-4b7b-8c02-062489e5c687"
 )
 
-# List of month names corresponding to the URLs
+#Month names
 month_names <- c("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
 
-# Function to extract data from a single URL
+#Function to extract data from each URL
 extract_data <- function(url) {
   response <- GET(url)
   data <- fromJSON(content(response, "text"))
   
-  # Extract the records from the API response
+  #Extract data from the API
   records <- data$result$records
   
   return(records)
 }
 
-# Loop through the URLs and extract the data
+#Loops through each URL
 data_list <- list()
 for (i in seq_along(urls)) {
   data <- extract_data(urls[i])
   data_list[[month_names[i]]] <- data
 }
 
-# Combine the data from all months into a single data frame
+#Data combination
 all_data <- do.call(rbind, data_list)
 
-# Convert row names to a new column called "Month"
+#Convert row names to a new column called "Month"
 df <- rownames_to_column(all_data, var = "Month")
 df$Month <- gsub("\\..*", "", df$Month)
+
+df_cleaned <- df %>%
+  rename(am_peak = `AM Peak (7-9AM) seconds`,
+        pm_peak = `PM Peak (4-7PM) seconds`,
+        corridor = `Corridor Name`)
+
+
+#save dataset
+write.csv(df_cleaned, 'assets/df_cleaned.csv')
+
+
+  
+ggplot(data = df_cleaned, aes(x = factor(Month, levels = month_names), y = am_peak, group = corridor, color=corridor)) +
+  geom_line()+
+  #scale_color_manual(values = c("red", "blue")) +
+  labs(title = "AM and PM Peak Variation Across Logan Road",
+       x = "Month",
+       y = "Peak Volume")
