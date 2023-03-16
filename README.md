@@ -1,5 +1,5 @@
 # 🚔 Brisbane Traffic in 2018
-Brisbane is a rapidly growing metropolitan city in Australia, and in 2032 they will host the olympics. Brisbane's traffic has been getting worse throughout the years and road infrastucture cannot withstand the current and project traffic volume. 
+Brisbane is a rapidly growing metropolitan city in Australia, and in 2032 it will host the olympics. Brisbane's traffic has been getting worse throughout the years and road infrastucture cannot withstand the current and project traffic volume. 
 
 I wanted to understand how Brisbane traffic was in previous years, and then compare it with current data. Data for 2021, 2022 or even 2023 is yet to be made available by the Open Data team at Queensland Department of Transport. I was able to access the 2018 data, specifically the peak volume for AM and PM across all key QLD corridors. 
 
